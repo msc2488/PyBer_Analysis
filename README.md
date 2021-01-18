@@ -5,10 +5,11 @@ Summarize ride share data for presentation to the CEO of PyBer. V.Isualize has a
 
 The PyBer Summary DataFrame provides a comparisson of PyBer's ridesharing services in three types of cities: rural, surburban, and urban cities. The summary shows that there is greater demand for PyBer among riders in urban cities compared to suburban and rural cities. Between January 2019 and May 2019, there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities. 
 
+https://github.com/msc2488/PyBer_Analysis/blob/main/PyBer_Analysis/Analysis/Fig1.png
 
-There were also a larger number of drivers in urban cities compared to suburban and rural cities. The figure below depicts the significance of drivers in urban cities during this time period.
+There were also a larger number of drivers in urban cities compared to suburban and rural cities. 
 
-Given that there is a greater usage of PyBer in urban cities, the total fares are higher. The figure below shows PyBer revenue distribution by city.
+Given that there is a greater usage of PyBer in urban cities, the total fares are higher. 
 
 Rural cities have the highest average fare as there is likely a scarcity effect. 
 
